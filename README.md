@@ -11,6 +11,8 @@ Java
 - MVVM.
 - Room DB.
 - YouTube API.
+- AndroidX.
+- Butter Knife.
 
 - movies and tv shows display as a paged adapter.
 - trailers video supported based on YouTube API. 
